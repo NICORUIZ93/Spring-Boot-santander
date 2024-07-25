@@ -41,7 +41,7 @@ cd Spring-Boot-santander
 Construir la Aplicación
 
 ```bash
-gradlew clean build
+gradle clean build
 ```
 
 Ejecutar Docker Compose
@@ -66,7 +66,7 @@ Para ejecutar las pruebas unitarias de la aplicación, utiliza el siguiente coma
 el directorio raíz del proyecto:
 
 ```bash
-gradlew test
+gradle test
 ```
 
 ## 🔗 Enlace a la Documentación en Postman
