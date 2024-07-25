@@ -35,7 +35,7 @@ git clone https://github.com/NICORUIZ93/Spring-Boot-santander.git
 Acceder al Directorio del Proyecto
 
 ```bash
-  cd Spring-Boot-santander
+cd Spring-Boot-santander
 ```
 
 Construir la Aplicación
@@ -66,7 +66,7 @@ Para ejecutar las pruebas unitarias de la aplicación, utiliza el siguiente coma
 el directorio raíz del proyecto:
 
 ```bash
-  ./gradlew test
+gradlew test
 ```
 
 ## 🔗 Enlace a la Documentación en Postman
@@ -74,10 +74,6 @@ el directorio raíz del proyecto:
 Puedes acceder a la documentación de la API utilizando el siguiente enlace:
 
 [Documentación de la API en Postman](https://documenter.getpostman.com/view/11742617/2sA3kXFgDE)
-
-## 📝License
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
 
 ## 👤 Autores
 
