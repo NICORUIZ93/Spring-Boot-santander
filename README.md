@@ -21,10 +21,10 @@ Este es un servicio web simple que maneja una entidad "Producto". Utiliza **Spri
     - **docker-compose.yml** para definir los servicios de la aplicación y la base de datos.
 
 5. **Conexión a la Base de Datos:**
-    - Configuración para conectar la aplicación a H2 Database.
+    - Configuración para conectar a PostgreSQL.
 
 6. **Pruebas Unitarias:**
-    - Pruebas unitarias para el controlador REST utilizando JUnit y Mockito.
+    - Pruebas unitarias para el controlador REST utilizando JUnit.
 
 🔍 Clonar el Repositorio
 
