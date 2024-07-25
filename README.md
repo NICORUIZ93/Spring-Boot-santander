@@ -41,7 +41,7 @@ Acceder al Directorio del Proyecto
 Construir la Aplicación
 
 ```bash
-./gradlew clean build
+gradlew clean build
 ```
 
 Ejecutar Docker Compose
