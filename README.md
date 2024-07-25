@@ -35,7 +35,7 @@ git clone https://github.com/NICORUIZ93/Spring-Boot-santander.git
 Acceder al Directorio del Proyecto
 
 ```bash
-  cd santander
+  cd Spring-Boot-santander
 ```
 
 Construir la Aplicación
