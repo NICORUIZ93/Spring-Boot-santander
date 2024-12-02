@@ -1,4 +1,4 @@
-# 📦 Prueba técnica - Desarrollo de la Aplicación Spring Boot
+# 📦 Desarrollo de la Aplicación Spring Boot
 
 ## 📖 Descripción
 
